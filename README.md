@@ -63,7 +63,7 @@ See the code step by step:
 <br>
 
 # 🧩 Icons  
-The link below takes you to a GitHub profile with a great tutorial on how to create animated SVG text for your ReadMe. [WebSite Skills Icons](https://skillicons.dev/)
+The link below takes you to a site that provides a wide variety of skill icons (tech stacks, tools, etc.) you can easily use in your ReadMe. Just follow the guide on their GitHub to get started. [WebSite Skills Icons](https://skillicons.dev/)
 
 <img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/495bd736-0b47-46dc-a5a9-486d3d8db4eb" />
 
